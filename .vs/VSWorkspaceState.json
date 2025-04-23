@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TechLibrary.Api",
+    "\\TechLibrary.Api\\Controllers",
+    "\\TechLibrary.Api\\Infraestructure",
+    "\\TechLibrary.Api\\Infraestructure\\DataAccess",
+    "\\TechLibrary.Api\\Infraestructure\\Security",
+    "\\TechLibrary.Api\\Infraestructure\\Security\\Cryptography",
+    "\\TechLibrary.Api\\UseCases",
+    "\\TechLibrary.Api\\UseCases\\Users",
+    "\\TechLibrary.Api\\UseCases\\Users\\Register"
+  ],
+  "SelectedNode": "\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
+  "PreviewInSolutionExplorer": false
+}
